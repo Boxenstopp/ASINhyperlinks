@@ -1,5 +1,8 @@
-# ASINhyperlinks
-Turn ASINs from Amazon reports into hyperlinks.
+# ASINs to Hyperlinks
+Convert ASINs from Amazon reports into hyperlinks.
+
+Google Sheets > Extensions > App Script
+Paste the code below > save > click "run" > grant permissions
 
 ```javascript
 function createAmazonLinks() {
